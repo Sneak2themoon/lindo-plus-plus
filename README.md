@@ -25,8 +25,8 @@ Si vous avez deja jouer sur lindo avant, veuillez supprimer le dossier *%appdata
 ## Comment faire ma version avec ce code
 
 ### Alors pour les gens qui n'y connaisse rien, suivez la vidéo suivante :
-https://github.com/mapechelindo/lindo-plus-plus/blob/master/intaller%20lindo.mp4
-Profitez de ce temps pour lire les recommendations ANTI BAN
+https://github.com/mapechelindo/lindo-plus-plus/blob/master/intaller%20lindo.mp4?raw=true
+-Profitez de ce temps pour lire les recommendations ANTI BAN
 
 ### Pour les dev curieux :
 télécharger les sources comme le lindo :

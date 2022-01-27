@@ -1,0 +1,22 @@
+.main-content{
+    flex: 1;
+    display: flex;
+    margin-top: 25vh;
+
+    .information{
+        margin-bottom: 15px;
+    }
+}
+
+.toolbar-child-window{
+    
+    -webkit-app-region: drag;
+
+    .close{
+        -webkit-app-region: no-drag;
+    }
+}
+
+.main-content ::ng-deep .mat-progress-bar .mat-progress-bar-fill {
+    transition: transform 450ms cubic-bezier(.25,0,.59,1);
+}

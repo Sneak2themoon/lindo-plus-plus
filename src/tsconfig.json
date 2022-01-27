@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "inlineSources": true,
+    "declaration": false,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2015",
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "outDir": "../dist/app",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "baseUrl": "",
+    "paths": {
+      "@env/*": ["environments/*"],
+      "@services/*": ["app/services/*"],
+      "@helpers/*": ["app/helpers/*"],
+      "@mods/*": ["app/mods/*"],
+      "@modules/*": ["app/modules/*"],
+      "@interfaces/*": ["app/interfaces/*"]
+    },
+    "types": [
+      "webpack-env"
+    ]
+  }
+,
+  "files": [
+    "main.ts",
+    "polyfills.ts",
+    "typings.d.ts"
+  ],
+  "include": [
+    "src/**/*.d.ts"
+  ]
+}

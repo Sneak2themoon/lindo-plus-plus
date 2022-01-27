@@ -178,18 +178,19 @@ export class FastVente extends Mod{
     
         tradingWindow.on('open', this.evTradeOpenStd = () => {
           const sellBtn = this.sellingSettingsWindow().sellBtn;
+          if(sellBtn != undefined){
+              sellBtn.addListener('longtap', () => {
+                this.touchended = false;
+                proceedToSell();
+                sellBtn.once('dom.touchend', () => {
+                  this.touchended = true;
+                  clearTimeout(sellTimeout);
+                });
+              });
     
-          sellBtn.addListener('longtap', () => {
-            this.touchended = false;
-            proceedToSell();
-            sellBtn.once('dom.touchend', () => {
-              this.touchended = true;
-              clearTimeout(sellTimeout);
-            });
-          });
-    
-          const listener = sellBtn?._events?.longtap?.slice?.(-1)?.[0] || sellBtn?._events?.longtap;
-          tradingWindow.once('close', () => sellBtn?.removeListener('longtap', listener));
+            const listener = sellBtn?._events?.longtap?.slice?.(-1)?.[0] || sellBtn?._events?.longtap;
+            tradingWindow.once('close', () => sellBtn?.removeListener('longtap', listener));
+          }
         });
     }
 

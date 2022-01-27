@@ -1,6 +1,8 @@
 # Custom Lindo
 Si vous avez deja jouer sur lindo avant, veuillez supprimer le dossier *%appdata%/lindo*
 
+## Mirroir du repo sur gitlab.com et gitee.com
+
 ## Trucs en plus :
 
 - Ce rendre ici (click sur la map)
@@ -23,11 +25,10 @@ Si vous avez deja jouer sur lindo avant, veuillez supprimer le dossier *%appdata
 ## Comment faire ma version avec ce code
 
 ### Alors pour les gens qui n'y connaisse rien, suivez la vidéo suivante :
-La création du .exe prend ~15 minutes, profitez de ce temps pour lire les recommendations ANTI BAN
+https://github.com/mapechelindo/lindo-plus-plus/blob/master/intaller%20lindo.mp4
+Profitez de ce temps pour lire les recommendations ANTI BAN
 
-//insérer lien vidéo
-
-### Pour les dev curieux et qui n'ont pas le temps :
+### Pour les dev curieux :
 télécharger les sources comme le lindo :
 - npm i, npm run build:dev, npm start
 - npm i, npm run build:prod, npm run release:win

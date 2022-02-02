@@ -1,5 +1,5 @@
 {
-  "name": "lindo",
+  "name": "lindoplusplus",
   "version": "2.7.1",
   "description": "Play Dofus Touch on Linux/OS X/Window",
   "author": "Prixe",
@@ -96,7 +96,7 @@
   "main": "dist/electron/main.js",
   "build": {
     "copyright": "Prixe",
-    "productName": "Lindo",
+    "productName": "Lindo++",
     "asar": true,
     "appId": "com.lindo.app",
     "directories": {
@@ -119,8 +119,8 @@
       "category": "public.app-category.games"
     },
     "linux": {
-      "executableName": "Lindo",
-      "description": "Lindo Client for Linux",
+      "executableName": "Lindo++",
+      "description": "Lindo++ Client for Linux",
       "target": [
         "tar.gz",
         "deb"

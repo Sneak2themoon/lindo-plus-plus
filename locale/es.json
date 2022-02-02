@@ -11,7 +11,7 @@
       },
       "prompt": {
         "tabs-overflow": {
-          "text": "Lindo no permite más de 6 pestañas por ventana, más puede hacer que vaya lento y tenga errores. Puedes abrir una nueva ventana y funcionará bien."
+          "text": "Lindo++ no permite más de 6 pestañas por ventana, más puede hacer que vaya lento y tenga errores. Puedes abrir una nueva ventana y funcionará bien."
         }
       }
     },
@@ -36,16 +36,16 @@
         "password-bad": "La contraseña es incorrecta"
       },
       "update-dofus": {
-        "title": "Actualizar Lindo",
+        "title": "Actualizar Lindo++",
         "step0": "Preparándose para la actualización..",
         "step1": "Etapa 1 : Descargando archivos Dofus",
-        "step2": "Etapa 2 : Descargando parche de lindo",
+        "step2": "Etapa 2 : Descargando parche de Lindo++",
         "step3": "Etapa 3 : Resolviendo de versión",
         "step4": "Etapa 4 : Aplicando los parches",
         "step5": "Etapa 5 : Escribiendo archivos modificados",
         "step6": "Etapa 6 : Eliminando archivos antiguos",
         "step7": "Etapa 7 : Finalizado",
-        "step8": "Etapa 8 : Abriendo de Lindo...",
+        "step8": "Etapa 8 : Abriendo de Lindo++...",
         "information": {
           "search": "Buscando actualizaciones...",
           "error": "No se puede descargar la actualización! Por favor, inténtelo de nuevo",
@@ -122,7 +122,7 @@
       },
       "bug-report": {
         "title": "Reportar un bug",
-        "description": "Si ha observado un comportamiento inesperado en Lindo, puede informarlo describiéndolo a continuación.",
+        "description": "Si ha observado un comportamiento inesperado en Lindo++, puede informarlo describiéndolo a continuación.",
         "instructions": "Proporcione al menos esta información:",
         "list": {
           "1": "La descripción del comportamiento inesperado",
@@ -153,7 +153,7 @@
           "pvp-warning": "No puedes unirte a una pelea PvP automáticamente"
         },
         "multi-account": {
-          "home-no-master": "Para utilizar esta función, debe configurar una contraseña. Se utiliza para iniciar Lindo con varias cuentas de forma automática.",
+          "home-no-master": "Para utilizar esta función, debe configurar una contraseña. Se utiliza para iniciar Lindo++ con varias cuentas de forma automática.",
           "header": "Múltiples cuentas",
           "active": "Habilitar múltiples cuentas",
           "window": "Ventana",
@@ -296,7 +296,7 @@
           "slot": "Localización {{x}}"
         },
         "no-emu": {
-          "header": "Lindo",
+          "header": "Lindo++",
           "new-window": "Nueva ventana",
           "new-tab": "Nueva Pestaña",
           "tab": "Lengüeta {{x}}",

@@ -11,7 +11,7 @@
       },
       "prompt": {
         "tabs-overflow": {
-          "text": "Lindo, pencere başına 6'dan fazla sekmeyi desteklemez,gecikme veya hatalar olabilir. Yeni bir pencere açabilir ve daha iyi çalıştırabilirsiniz."
+          "text": "Lindo++, pencere başına 6'dan fazla sekmeyi desteklemez,gecikme veya hatalar olabilir. Yeni bir pencere açabilir ve daha iyi çalıştırabilirsiniz."
         }
       }
     },
@@ -32,20 +32,20 @@
       "master-password": {
         "continue": "Devam et",
         "skip": "Bu adımı atla",
-        "password-label": "Lindo şifrenizi girin",
+        "password-label": "Lindo++ şifrenizi girin",
         "password-bad": "Şifre yanlış"
       },
       "update-dofus": {
-        "title": "Lindo güncellemesi",
+        "title": "Lindo++ güncellemesi",
         "step0": "Güncelleme için hazırlanıyor..",
         "step1": "Aşama 1 : Dofus dosyalarını indirme",
-        "step2": "Aşama 2 : Lindo yaması indir",
+        "step2": "Aşama 2 : Lindo++ yaması indir",
         "step3": "Aşama 3 : Sürüm çözünürlüğü",
         "step4": "Aşama 4 : Yamaların uygulanması",
         "step5": "Aşama 5 : Değiştirilen dosyaları yazma",
         "step6": "Aşama 6 : Eski dosyaları silin",
         "step7": "Aşama 7 : Sonlandırma",
-        "step8": "Aşama 8 : Lindo'nun piyasaya sürülmesi..",
+        "step8": "Aşama 8 : Lindo++'nun piyasaya sürülmesi..",
         "information": {
           "search": "Güncellemeler aranıyor...",
           "error": "Güncelleme indirilemiyor! Lütfen daha sonra tekrar deneyiniz",
@@ -121,7 +121,7 @@
       },
       "bug-report": {
         "title": "Hata bildirin",
-        "description": "Lindo'da beklenmedik bir davranış gözlemlediyseniz, bunu aşağıda açıklayarak bildirebilirsiniz.",
+        "description": "Lindo++'da beklenmedik bir davranış gözlemlediyseniz, bunu aşağıda açıklayarak bildirebilirsiniz.",
         "instructions": "Lütfen en azından şu bilgileri sağlayın:",
         "list": {
           "1": "Beklenmedik davranış açıklaması",
@@ -154,7 +154,7 @@
           "pvp-warning": "PvP savaşına otomatik olarak katılamazsınız"
         },
         "multi-account": {
-          "home-no-master": "Bu özelliği kullanmak için bir parola yapılandırılmalıdır. Lindo'yu çok hesaplı otomasyonla başlatmak için kullanılacak.",
+          "home-no-master": "Bu özelliği kullanmak için bir parola yapılandırılmalıdır. Lindo++'yu çok hesaplı otomasyonla başlatmak için kullanılacak.",
           "header": "Çoklu hesaplar",
           "active": "Çoklu hesapları etkinleştir",
           "window": "Pencere",
@@ -193,7 +193,7 @@
             },
             "delete-master": {
               "title": "Şifreyi kaldır",
-              "text": "Emin misiniz?<br/>Bu kaydedilen hesapları silecektir.(Lindo)",
+              "text": "Emin misiniz?<br/>Bu kaydedilen hesapları silecektir.(Lindo++)",
               "confirm": "Kaldır",
               "cancel": "İptal Et",
               "success-text": "Şifre silindi."
@@ -300,7 +300,7 @@
           "slot": "Sıra {{x}}"
         },
         "no-emu": {
-          "header": "Lindo",
+          "header": "Lindo++",
           "new-window": "Yeni Pencere",
           "new-tab": "Yeni sekme",
           "tab": "Sekme {{x}}",

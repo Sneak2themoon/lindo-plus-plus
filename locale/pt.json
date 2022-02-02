@@ -11,7 +11,7 @@
             },
             "prompt": {
                 "tabs-overflow": {
-                    "text": "Lindo não suporta mais de 6 abas por janela, acima disso pode ser lento e cheio de bugs. Mas você pode abrir uma nova janela e funcionará perfeitamente."
+                    "text": "Lindo++ não suporta mais de 6 abas por janela, acima disso pode ser lento e cheio de bugs. Mas você pode abrir uma nova janela e funcionará perfeitamente."
                 }
             }
         },
@@ -36,16 +36,16 @@
                 "password-bad": "A senha está correta"
             },
             "update-dofus": {
-                "title": "Lindo update",
+                "title": "Lindo++ update",
                 "step0": "Preparando atualização ...",
                 "step1": "Etapa 1 : Baixando arquivos do Dofus",
-                "step2": "Etapa 2 : Download do patch Lindo",
+                "step2": "Etapa 2 : Download do patch Lindo++",
                 "step3": "Etapa 3 : Resolução da versão",
                 "step4": "Step 4 : Aplicando os patches",
                 "step5": "Step 5 : Gravando arquivos modificados",
                 "step6": "Step 6 : Excluir arquivos antigos",
                 "step7": "Step 7 : Finalização",
-                "step8": "Step 8 : Iniciando o Lindo...",
+                "step8": "Step 8 : Iniciando o Lindo++...",
                 "information": {
                     "search": "Procurando por atualização...",
                     "error": "Não foi possível baixar as atualizações, tente novamente mais tarde",
@@ -115,7 +115,7 @@
             },
             "bug-report": {
                 "title": "Reportar um bug",
-                "description": "Se você observou um comportamento inesperado em Lindo, pode relatá-lo descrevendo-o abaixo.",
+                "description": "Se você observou um comportamento inesperado em Lindo++, pode relatá-lo descrevendo-o abaixo.",
                 "instructions": "Forneça pelo menos estas informações:",
                 "list": {
                     "1": "A descrição do comportamento inesperado",
@@ -146,7 +146,7 @@
                     "pvp-warning": "Você não pode entrar em uma luta PvP automaticamente"
                 },
                 "multi-account": {
-                    "home-no-master": "Para usar este recurso, uma senha deve ser configurada. Ela será usada para iniciar o Lindo com automação multi-conta.",
+                    "home-no-master": "Para usar este recurso, uma senha deve ser configurada. Ela será usada para iniciar o Lindo++ com automação multi-conta.",
                     "header": "Múltiplas Contas",
                     "active": "Ativar Múltiplas Contas",
                     "window": "Janela",
@@ -288,7 +288,7 @@
                     "slot": "Slot {{x}}"
                 },
                 "no-emu": {
-                    "header": "Lindo",
+                    "header": "Lindo++",
                     "new-window": "Nova Janela",
                     "new-tab": "Nova aba",
                     "tab": "Aba {{x}}",

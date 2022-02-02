@@ -11,7 +11,7 @@
       },
       "prompt": {
         "tabs-overflow": {
-          "text": "Lindo nie wspiera więcej niż 6 kart na okno. Powyżej tej liczby mogą występować duże opóźnienia oraz liczne błędy. Możesz natomiast uruchomić nowe okno, jeśli chcesz używać większej liczby kont."
+          "text": "Lindo++ nie wspiera więcej niż 6 kart na okno. Powyżej tej liczby mogą występować duże opóźnienia oraz liczne błędy. Możesz natomiast uruchomić nowe okno, jeśli chcesz używać większej liczby kont."
         }
       }
     },
@@ -36,16 +36,16 @@
         "password-bad": "Podane hasło jest nieprawidłowe"
       },
       "update-dofus": {
-        "title": "Aktualizacja Lindo",
+        "title": "Aktualizacja Lindo++",
         "step0": "Przygotowanie do aktualizacji..",
         "step1": "Krok 1 : Pobieranie plików Dofus",
-        "step2": "Krok 2 : Pobieranie łatki Lindo",
+        "step2": "Krok 2 : Pobieranie łatki Lindo++",
         "step3": "Krok 3 : Rozdzielczość wersji",
         "step4": "Krok 4 : Nakładanie plastrów",
         "step5": "Krok 5 : Pisanie zmodyfikowanych plików",
         "step6": "Krok 6 : Usuń stare pliki",
         "step7": "Krok 7 : Finalizacja",
-        "step8": "Krok 8 : Uruchomienie Lindo..",
+        "step8": "Krok 8 : Uruchomienie Lindo++..",
         "information": {
           "search": "Szukanie aktualizacji...",
           "error": "Nie można pobrać aktualizacji! Proszę spróbować później",
@@ -122,7 +122,7 @@
       },
       "bug-report": {
         "title": "Zgłoś błąd",
-        "description": "Jeśli doświadczyłeś nieoczekiwanego zachowania Lindo, możesz zgłosić nam to opisując problem poniżej",
+        "description": "Jeśli doświadczyłeś nieoczekiwanego zachowania Lindo++, możesz zgłosić nam to opisując problem poniżej",
         "instructions": "Proszę udziel nam co najmniej tych informacji:",
         "list": {
           "1": "Opis nieoczekiwanego zachowania",
@@ -155,7 +155,7 @@
           "pvp-warning": "Nie możesz dołączyć automatycznie do walk PVP"
         },
         "multi-account": {
-          "home-no-master": "Aby użyć tej funkcji musisz ustawić hasło. Lindo zostanie uruchomione wraz ze wszystkimi kontami automatycznie.",
+          "home-no-master": "Aby użyć tej funkcji musisz ustawić hasło. Lindo++ zostanie uruchomione wraz ze wszystkimi kontami automatycznie.",
           "header": "Wiele kont",
           "active": "Włącz funkcję wielu kont",
           "window": "Okno",
@@ -252,7 +252,7 @@
         "hide-tab": "Ukryj pasek wielu kont",
         "focus-fight-turn": "Automatycznie przełączaj konto kiedy jego tura się rozpocznie",
         "local-content": "Aktywuj usługę pobrania mapy(beta)",
-        "sound-focus": "Dźwięk z gry włączony jest tylko podczas aktywnego okna Lindo",
+        "sound-focus": "Dźwięk z gry włączony jest tylko podczas aktywnego okna Lindo++",
         "early": " Graj w Dofus Touch we wczesnym dostępie",
         "restart": "Zatwierdź i zrestartuj"
       },
@@ -298,7 +298,7 @@
           "slot": "Miejsce {{x}}"
         },
         "no-emu": {
-          "header": "Lindo",
+          "header": "Lindo++",
           "new-window": "Nowe okno",
           "new-tab": "Nowa karta",
           "tab": "Karta {{x}}",

@@ -11,7 +11,7 @@
       },
       "prompt": {
         "tabs-overflow": {
-          "text": "Lindo ne garantit pas le support de plus de 6 onglets par fenêtre, vous pouvez cependant ouvrir une autre fenêtre ou bien continuer au risque de bugs !"
+          "text": "Lindo++ ne garantit pas le support de plus de 6 onglets par fenêtre, vous pouvez cependant ouvrir une autre fenêtre ou bien continuer au risque de bugs !"
         }
       }
     },
@@ -36,16 +36,16 @@
         "password-bad": "Le mot de passe est incorrect"
       },
       "update-dofus": {
-        "title": "Mise à jour de Lindo",
+        "title": "Mise à jour de Lindo++",
         "step0": "Préparation de la mise à jours..",
         "step1": "Étape 1 : Téléchargement des fichiers de Dofus",
-        "step2": "Étape 2 : Téléchargement des patch Lindo",
+        "step2": "Étape 2 : Téléchargement des patch Lindo++",
         "step3": "Étape 3 : Résolution des versions",
         "step4": "Étape 4 : Application des patchs",
         "step5": "Étape 5 : Écriture des fichiers modifiés",
         "step6": "Étape 6 : Suppression des anciens fichiers",
         "step7": "Étape 7 : Finalisation",
-        "step8": "Étape 8 : Lancement de Lindo..",
+        "step8": "Étape 8 : Lancement de Lindo++..",
         "information": {
           "search": "Recherche de mises à jour...",
           "error": "Impossible d'effectuer la mise à jour ! Veuillez réessayer ultérieurement",
@@ -122,7 +122,7 @@
       },
       "bug-report": {
         "title": "Rapporter un bug",
-        "description": "Si vous observez un comportement inattendu en rapport avec Lindo, vous pouvez nous en faire part en le décrivant ci-dessous.",
+        "description": "Si vous observez un comportement inattendu en rapport avec Lindo++, vous pouvez nous en faire part en le décrivant ci-dessous.",
         "instructions": "Merci de préciser au moins ces éléments :",
         "list": {
           "1": "Description du comportement inattendu",
@@ -154,7 +154,7 @@
           "pvp-warning": "Vous ne pouvez pas rejoindre un combat PvP automatiquement"
         },
         "multi-account": {
-          "home-no-master": "Pour utiliser cette fonctionnalité, un mot de passe doit être configuré. Il sera utilisé afin de démarrer Lindo avec les automatismes du multi-compte.",
+          "home-no-master": "Pour utiliser cette fonctionnalité, un mot de passe doit être configuré. Il sera utilisé afin de démarrer Lindo++ avec les automatismes du multi-compte.",
           "header": "Multi comptes",
           "active": "Activer le multi comptes",
           "window": "Fenêtre",
@@ -301,7 +301,7 @@
           "slot": "Emplacement {{x}}"
         },
         "no-emu": {
-          "header": "Lindo",
+          "header": "Lindo++",
           "new-window": "Nouvelle fenêtre",
           "new-tab": "Nouvel onglet",
           "tab": "Onglet {{x}}",
